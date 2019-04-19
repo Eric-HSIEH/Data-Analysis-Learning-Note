@@ -76,7 +76,7 @@
 16、REPLACE
 功能：替換掉儲存格的字串
 語法：=REPLACE（目標, 哪個位置開始替換, 替換幾個字元, 替換成什麼）
-=REPLACE(A1, 1, 2, "BB)
+=REPLACE(A1, 1, 2, "BB")
 
 17、SUBSTITUTE
 功能：和REPLACE接近，不同在於REPLACE根據位置實現替換，需要提供從第幾位開始替換，替換幾位，替換後的新的文本；
